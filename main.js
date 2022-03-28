@@ -6,7 +6,7 @@ const weather = document.querySelector(".weather");
 
 button.onclick = function() {
     const userInput = input.value;
-    fetch (`http://api.openweathermap.org/data/2.5/weather?q=${userInput}&units=imperial&APPID=${key}`)
+    fetch (`https://api.openweathermap.org/data/2.5/weather?q=${userInput}&units=imperial&APPID=${key}`)
     .then(function(response) {
         return response.json()
     })
