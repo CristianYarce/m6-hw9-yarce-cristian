@@ -1,7 +1,7 @@
 # m6-hw9-yarce-cristian
 
 ## Issues
-I had problems when starting to develop the project but researching the web, I found a quick way to get all the results. I was also guided by module 6, 01-api_request project.
+I had issues when starting to develop the project but researching the web, I found a quick way to get all the results. I was also guided by module 6, 01-api_request project.
 
 
 ## Outside resourses 
